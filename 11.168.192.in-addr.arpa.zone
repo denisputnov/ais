@@ -10,4 +10,4 @@ $TTL 86400
 	)
 
 @       NS              ns1.example.
-ns1     IN      PTR     ns1.example.
+11     IN      PTR     ns1.example.
