@@ -1,4 +1,4 @@
-$ORIGIN example.
+$ORIGIN 11.168.192.in-addr.arpa.
 $TTL 86400
 
 @ IN SOA 11.168.192.in-addr.arpa. putnov.ns1.example. (
